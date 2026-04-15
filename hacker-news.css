@@ -23,7 +23,7 @@
 }
 
 * {
-  font-family: Inter Variable, system-ui;
+  font-family: Inter, system-ui;
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
